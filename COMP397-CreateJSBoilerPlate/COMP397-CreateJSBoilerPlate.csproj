@@ -82,6 +82,7 @@
     <Folder Include="assets\audio\" />
     <Folder Include="assets\fonts\" />
     <Folder Include="assets\images\" />
+    <Folder Include="Test Folder\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\game.ts" />
