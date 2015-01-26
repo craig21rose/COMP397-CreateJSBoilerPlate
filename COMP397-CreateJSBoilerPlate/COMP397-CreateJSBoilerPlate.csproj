@@ -73,6 +73,7 @@
     <Content Include="Scripts\lib\preloadjs-0.6.0.min.js" />
     <Content Include="Scripts\lib\soundjs-0.6.0.min.js" />
     <Content Include="Scripts\lib\tweenjs-0.6.0.min.js" />
+    <Content Include="Test Folder\JavaScript1.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -82,7 +83,6 @@
     <Folder Include="assets\audio\" />
     <Folder Include="assets\fonts\" />
     <Folder Include="assets\images\" />
-    <Folder Include="Test Folder\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\game.ts" />
